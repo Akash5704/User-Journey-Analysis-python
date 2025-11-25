@@ -2,9 +2,6 @@
 
 > **Unlock User Insights, Drive Growth with Data Power**
 
-_Last commit: today_  
-_Languages: Jupyter Notebook 99.2%_  
-_Built with the tools and technologies: **Python**_
 
 ---
 
